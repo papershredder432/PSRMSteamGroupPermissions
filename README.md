@@ -1,7 +1,7 @@
 # PSRMSteamGroupPermissions
 Rocket plugin to "sync" Steam groups and Rocket permission groups.
 
-[![Github All Releases](https://img.shields.io/github/downloads/papershredder432/PSRMPoliceUtilities/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/papershredder432/PSRMSteamGroupPermissions/total.svg)]()
 ![Discord](https://img.shields.io/discord/483456891498921994?label=Discord&logo=Discord)
 
 ## Use
